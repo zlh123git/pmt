@@ -1,6 +1,11 @@
 package com.camelot.pmt.mode;
 
+/**
+ * lvp
+ */
 public class User {
+
+
     private Integer userId;
 
     private String userName;
